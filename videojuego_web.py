@@ -17,7 +17,7 @@ st.image("tienda.jpg")
 
 #Cargamos el modelo
 import pickle
-filename = 'modelo-reg-tree-knn-nn1.pkl'
+filename = 'modelo-reg-tree-knn-nn1 (1).pkl'
 #filename = 'modelo-reg-tree.pkl'
 model_Tree,model_Knn, model_NN,variables, min_max_scaler = pickle.load(open(filename, 'rb')) #DT-Knn
 
