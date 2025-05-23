@@ -1,1 +1,1 @@
-web: sh sutup.sh && stramlit run .\carrisk_web.py
+web: sh sutup.sh && stramlit run .\videojuego_web.py
